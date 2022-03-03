@@ -1,0 +1,22 @@
+{
+  "name": "package-json",
+  "version": "1.0.0",
+  "description": "The description for this package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chroniii/package-json.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Jane Doe (jane@doe.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chroniii/package-json/issues"
+  },
+  "homepage": "https://github.com/chroniii/package-json#readme"
+}
